@@ -1,0 +1,64 @@
+keycode 41 |
+keycode  2 !
+keycode  3 "
+keycode  4 £
+keycode  5 $
+keycode  6 %
+keycode  7 &
+keycode  8 /
+keycode  9 (
+keycode 10 )
+keycode 11 =
+keycode 12 ?
+keycode 13 ^
+keycode 14 "BackSpace"
+keycode 15 "Tab"
+keycode 16 Q
+keycode 17 W
+keycode 18 E
+keycode 19 R
+keycode 20 T
+keycode 21 Y
+keycode 22 U
+keycode 23 I
+keycode 24 O
+keycode 25 P
+keycode 26 é
+keycode 27 *
+keycode 28 "Return/Enter"
+keycode 58 "CapsLock"
+keycode 30 A
+keycode 31 S
+keycode 32 D
+keycode 33 F
+keycode 34 G
+keycode 35 H
+keycode 36 J
+keycode 37 K
+keycode 38 L
+keycode 39 ç
+keycode 40 °
+keycode 42 "Shift-L"
+keycode 43 §
+keycode 86 >
+keycode 44 Z
+keycode 45 X
+keycode 46 C
+keycode 47 V
+keycode 48 B
+keycode 49 N
+keycode 50 M
+keycode 51 ;
+keycode 52 :
+keycode 53 _
+keycode 54 "Shift-R"
+keycode 29 "Ctrl-L"
+keycode125 "Home"
+keycode 56 "Alt"
+keycode 57 "Space"
+keycode100 "AltGr"
+keycode 97 "Ctrl-R"
+keycode105 "Left-Arrow"
+keycode108 "Down-Arrow"
+keycode106 "Right-Arrow"
+keycode103 "Up-Arrow"
