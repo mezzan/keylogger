@@ -2,7 +2,7 @@
 Un semplice keylogger basato sul comando bash "showkey".
 
 ## Funzionalità
-Intercetta tutto quello che viene digitato da tastiera salvando il risultato del file result.txt
+Intercetta tutto quello che viene digitato da tastiera salvando il risultato nel file result.txt
 
 ## Avvio
 Scaricare il programma ed accedere da terminale alla cartella del progetto, dare poi il seguente comando:
