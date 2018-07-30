@@ -11,4 +11,4 @@ Scaricare il programma ed accedere da terminale alla cartella del progetto, dare
 
 Per termiare il prigramma accedere da un nuovo terminale alla cartella scaricata e dare il seguente comando:
 
-./backup stop
+./backup.sh stop
