@@ -1,7 +1,7 @@
 # Linux keylogger
 Un semplice keylogger basato sul comando bash "showkey".
 
-## Funzionaità
+## Funzionalità
 Intercetta tutto quello che viene digitato da tastiera salvando il risultato del file result.txt
 
 ## Avvio
